@@ -5,7 +5,6 @@ Right now I'm:
 - 🤖 Studying machine learning
 - 🌍 Thinking about how to make the world better
 - 🚀 Coming up with startup ideas
-- 🌼 Creating in my [digital garden](https://sofvanh.github.io/quartz)
 - 💼 Open to opportunities!
 
 In the past I've:
