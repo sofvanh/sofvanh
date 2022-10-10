@@ -1,13 +1,16 @@
-### Hello 💛
-I'm Sofia (she/her).
+# Hi there
+### I'm Sofia (she/her).
 
-Right now I'm:
-- 🤖 Studying machine learning
-- 🌍 Thinking about how to make the world better
-- 🚀 Coming up with startup ideas
-- 💼 Open to opportunities!
+As of October 2022, I am:
+- 📚 Studying for a **Master's degree in computer science**
+- 🌍 Thinking about ambitious ways to improve the world
+- 🎭 Running an improv group
 
-In the past I've:
-- 🎮 Worked in games
-- 🎓 Received a degree in computer science
-- ✨ Created music, acted in plays, volunteered in EA and IFRC...
+Some things I have done:
+- 🎮 Worked as a **full-stack developer** in the **game industry** for 3+ years
+- 💻 Did work as a **tech lead** for 3 early-stage **startups**
+- 🎓 Taught myself to code as a teenager
+- ✨ Founded an a cappella group
+- 💝 Volunteered for EA and the Red Cross
+
+I'm open to exciting and impactful opportunities. Contact me on LinkedIn.
