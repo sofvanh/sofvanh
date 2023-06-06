@@ -1,5 +1,4 @@
 ### Hi, I'm Sofia
-(she/her)
 
 As of April 2023, I am building something exciting with a very cool team, while also thinking about ambitious ways to improve the world.
 
